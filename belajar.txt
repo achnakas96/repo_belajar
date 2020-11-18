@@ -3,5 +3,5 @@ Belajar github resolusi
   - saya ingin untuk membuat konten video materi
   - saya ingin membuat forum diskusi
   - saya ingin menjadi programmer handal
-  - saya menambahkan fitur download e-bok
+   - membuat fitur kuis
  
